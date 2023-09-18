@@ -14,11 +14,11 @@ public class GetAllMethod
 		given()
 		.contentType(ContentType.JSON)
 		.when()
-		.get("http://localhost:3000/APIStudentBatch");
+		.get("http://localhost:3000/APIStudentBatch/2");
 		
 		System.out.println("Status code is ");
 		System.out.println(res.statusCode());
 	
-		
+		System.out.println(res.asString());
 	}
 }
