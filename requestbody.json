@@ -1,0 +1,21 @@
+{
+      "firstname": "Inform of",
+      "lastname": "Array",
+      "id": "18",
+      "designation": "TL",
+      "address":
+      [
+     	 {
+     	 "House no": "41",
+      	"Sector": "B Block",
+      	"Landmark": "Near garden",
+      	"type": "Primary Address"
+     	 },
+       {
+     	 "House no": "42",
+      	"Sector": "B Block",
+      	"Landmark": "Near garden",
+      	"type": "Secondaryy Address"
+     	 }
+      ]
+    }
